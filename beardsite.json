@@ -524,7 +524,7 @@
                     "id": "[resourceId('Microsoft.Network/networkSecurityGroups', parameters('networkSecurityGroups_backendSERVER_nsg_name'))]"
                 }
             }
-        }
+        },
         {
             "type": "Microsoft.Network/networkInterfaces",
             "apiVersion": "2019-07-01",
